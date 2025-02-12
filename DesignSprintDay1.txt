@@ -1,0 +1,64 @@
+Product Vision & Long-Term Goal
+Our goal is to develop an all-in-one career development platform tailored for graduate students, helping them navigate the transition from academia to the workforce. The platform will offer industry-specific career roadmaps, intelligent job-matching, skill-building tools, and networking features to equip students with the resources needed to secure meaningful employment.
+
+Stakeholders
+- Universities & Career Services – Provide insights on career pathways and student job readiness.
+- Industry Professionals & Mentors – Offer guidance, networking, and mentorship opportunities.
+- Recruiters & Employers – Ensure alignment between job openings and industry needs.
+- Online Learning Platforms (Coursera, LinkedIn Learning, Udacity) – Supply skill-building resources and certification opportunities.
+
+Scenarios (20) for Sofia Martinez
+1. Sofia struggles with job application rejections and seeks structured resume feedback.
+2. Sofia is unsure which technical certifications (e.g., AWS, TensorFlow) are necessary for her field.
+3. Sofia has trouble networking and finds reaching out to industry professionals intimidating.
+4. Sofia is overwhelmed by conflicting career paths in data science and needs guidance.
+5. Sofia lacks real-world projects to showcase in her portfolio and needs project-building opportunities.
+6. Sofia spends hours searching for relevant job openings but struggles to find a good match.
+7. Sofia applies for jobs but rarely receives responses, making her doubt her qualifications.
+8. Sofia feels unprepared for technical interviews and wants structured mock interview training.
+9. Sofia receives conflicting advice from professors, mentors, and online resources, leaving her confused.
+10. Sofia is unsure how to translate her coursework and research experience into industry-relevant skills.
+11. Sofia has difficulty balancing job applications, coursework, and skill-building simultaneously.
+12. Sofia is worried about salary negotiations and wants insights into fair compensation for her role.
+13. Sofia is unsure how to tailor her resume for different job roles within data science.
+14. Sofia wants guidance on effective LinkedIn networking strategies but doesn’t know where to start.
+15. Sofia struggles with imposter syndrome, making her hesitant to apply for competitive roles.
+16. Sofia needs a structured roadmap outlining steps to land her first job in data science.
+17. Sofia wants access to a mentor who can provide personalized career guidance.
+18. Sofia is unsure how to showcase her soft skills effectively in interviews and applications.
+19. Sofia is interested in remote job opportunities but struggles to find reliable listings.
+20. Sofia wants a platform that continuously updates her on industry trends and emerging skills.
+
+User Stories (20)
+1. As a student, I want a career roadmap so I can follow a structured path to employment.
+2. As a job seeker, I want AI-driven job suggestions so I can focus on relevant opportunities.
+3. As a first-time job applicant, I want a resume analyzer so I can receive targeted improvement tips.
+4. As a career coach, I want a student progress dashboard so I can track their job readiness.
+5. As an employer, I want an applicant skill-matching feature so I can filter resumes efficiently.
+6. As a mentor, I want a way to provide short-term guidance so I can help students without long-term commitments.
+7. As a recruiter, I want access to a database of project-based portfolios so I can evaluate real-world skills.
+8. As a networking-averse student, I want structured guidance so I can confidently reach out to professionals.
+9. As a student, I want interview prep simulations so I can practice answering common questions.
+10. As a student, I want salary insights so I can understand my market value.
+11. As a researcher, I want industry conversion guidance so I can transition from academia to corporate roles.
+12. As a student, I want a personalized skill assessment so I can identify what certifications I need.
+13. As an international student, I want visa-specific job advice so I can plan my job search accordingly.
+14. As a student, I want AI-driven cover letter suggestions so I can tailor applications efficiently.
+15. As a hiring manager, I want student career progression insights so I can assess long-term potential.
+16. As a part-time student, I want flexible career resources so I can plan around my schedule.
+17. As a student, I want direct mentor connections so I can gain industry insights.
+18. As a bootcamp graduate, I want a way to compare my skills to master’s graduates so I can position myself better.
+19. As a first-generation student, I want clear job application steps so I can avoid mistakes.
+20. As a student, I want a networking events calendar so I can attend relevant meetups.
+
+Feature List (10)
+1. Personalized career roadmap generator.
+2. AI-powered job and internship matching.
+3. Resume analyzer and feedback tool.
+4. Soft skills assessment and improvement plan.
+5. Mentor-student matching system.
+6. AI-driven interview preparation tool.
+7. Interactive skill-gap analysis.
+8. Career tracking dashboard.
+9. Structured networking guide and event calendar.
+10. Real-world project repository for portfolio building.
